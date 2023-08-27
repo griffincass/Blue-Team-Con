@@ -25,6 +25,9 @@
 
 - Better user experiance
 - Avoid MFA fatigue
+- Require MFA for flagged high risk logins
+  - Impossible travel
+  - Token reuse
 
 
 ## Certificate Based Authentication
