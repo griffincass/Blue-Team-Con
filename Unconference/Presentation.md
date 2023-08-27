@@ -48,3 +48,6 @@
 - Legacy systems that do not support modern auth (i.e. NTLM)
 
 
+## QR Code for Resources
+
+![](Images/frame-2.png)
